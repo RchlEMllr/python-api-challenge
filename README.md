@@ -1,0 +1,1 @@
+Completed Module 6 Challenge. Consulted https://stackoverflow.com/questions/16327055/how-to-add-an-empty-column-to-a-dataframe to add an empty column for hotel names. Consulted https://stackoverflow.com/questions/24130922/how-to-print-equation-of-line-using-scipy-stats for printing linear regression equation. 
